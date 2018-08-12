@@ -1,1 +1,3 @@
-"# briscola" 
+# Briscola
+
+A game in progress
